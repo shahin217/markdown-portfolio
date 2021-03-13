@@ -1,1 +1,1 @@
-# <img src="img_girl.jpg" alt="Girl in a jacket">
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
